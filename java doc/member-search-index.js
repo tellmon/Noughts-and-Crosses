@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Ai","l":"Ai()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Ai","l":"blockAndWinsMove(Title[])"},{"p":"<Unnamed>","c":"Ai","l":"reset()"}];updateSearchResults();
